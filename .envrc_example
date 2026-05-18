@@ -1,8 +1,9 @@
-# maven 3.8.8 path
+# maven 3.9.15 path
 export PATH=
 
-# java 17.0.7 path
+# java 26.0.1 path
 export PATH=
+export JAVA_HOME=
 
 export PORT=
 
@@ -12,5 +13,5 @@ export POSTGRES_DB=
 export POSTGRES_USER=
 export POSTGRES_PASSWORD=
 
-# postgres 16.4 path
+# postgres 18.3 path
 export PATH=
